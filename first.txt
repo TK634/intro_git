@@ -1,2 +1,4 @@
 gitを始めます
 gitgitgit
+
+・git add 
