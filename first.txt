@@ -5,6 +5,6 @@ gitgitgit
 ・git add . (削除：git rm ファイル名)
 ・git status
 ・git commit -v (git commit -m "comment")
-・git log
+・git log (--oneline/-n 3/-p)
 ・git diff
 ・git diff HEAD
