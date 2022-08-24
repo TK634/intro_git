@@ -6,3 +6,5 @@ gitgitgit
 ・git status
 ・git commit -v (git commit -m "comment")
 ・git log
+・git diff
+・git diff HEAD
