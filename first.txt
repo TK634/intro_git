@@ -8,3 +8,6 @@ gitgitgit
 ・git log (--oneline/-n 3/-p)
 ・git diff
 ・git diff HEAD
+
+・git remote add origin https://github.com/
+・git push origin master
